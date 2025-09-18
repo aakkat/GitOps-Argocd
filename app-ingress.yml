@@ -17,7 +17,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: iphone.aakashtech.xyz
+    - host: iphone.aakash.xyz
       http:
         paths:
           - path: /
